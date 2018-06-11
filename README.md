@@ -1,3 +1,3 @@
 # template-testing
 
-Used for testing ux of choosing between multiple templates
+Used for testing UX of choosing between multiple templates
